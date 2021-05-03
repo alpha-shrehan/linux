@@ -6,7 +6,7 @@
  *
  * helper functions when coping with rational numbers,
  * e.g. when calculating optimum numerator/denominator pairs for
- * pll configuration taking into account restricted register size
+ * all configuration taking into account restricted register size
  */
 
 #ifndef _LINUX_RATIONAL_H
